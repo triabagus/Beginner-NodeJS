@@ -67,7 +67,13 @@ File on and run project
 node <name file>
 ```
 Read File System
-- make-read-file-system.js
+- make-fs-read.js
 - file-system.html
-Append File Sistem
-- make-append-file-system.js
+
+Append File System
+- make-fs-append.js
+if you execute loopping text in file newfile.txt
+
+Open File System
+- make-fs-open.js // for write
+- make-fs-open-wr.js // for write and read

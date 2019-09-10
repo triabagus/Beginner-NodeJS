@@ -80,3 +80,6 @@ Open File System
 
 Update Name File System
 - make-fs-rename.js
+
+Delete File System
+-make-fs-delete

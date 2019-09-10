@@ -61,3 +61,13 @@ Cek package.json
 ```bash
 npm run hello 
 ```
+8. Module File System Read and Write
+File on and run project
+```bash
+node <name file>
+```
+Read File System
+- make-read-file-system.js
+- file-system.html
+Write File Sistem
+- make-write-file-system.js

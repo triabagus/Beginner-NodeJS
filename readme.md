@@ -72,8 +72,11 @@ Read File System
 
 Append File System
 - make-fs-append.js
-if you execute loopping text in file newfile.txt
+>if you execute loopping text in file newfile.txt
 
 Open File System
 - make-fs-open.js // for write
 - make-fs-open-wr.js // for write and read
+
+Update Name File System
+- make-fs-rename.js

@@ -94,7 +94,11 @@ Make Statis Web Server
 - contact.html
 
 20. Get Data Form metode GET and POST
-Metode Get - search data
+>Metode Get - search form
 - make-form-get.js
 - search.html
 - url parse : [http://localhost:8000/search/](http://localhost:8000/search/)
+>Metode Post - login form
+- make-form-post.js
+- login-form.html
+- url parse : [http://localhost:8000/login/](http://localhost:8000/login/)

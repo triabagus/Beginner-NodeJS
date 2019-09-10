@@ -83,3 +83,12 @@ Update Name File System
 
 Delete File System
 -make-fs-delete
+
+9. Make Web Server Statis Node JS
+Parse Url - beginner
+- make-parse-url.js
+Make Statis Web Server
+- make-static-server.js
+- index.html
+- about.html
+- contact.html
